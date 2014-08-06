@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maxwe11.Modbus", "Maxwe11.Modbus\Maxwe11.Modbus.csproj", "{D949F885-3B49-4F96-8617-FCA2534477D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maxwe11.Modbus.Tests", "Maxwe11.Modbus.Tests\Maxwe11.Modbus.Tests.csproj", "{C79AC6CA-E182-4809-92BE-464B44085A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D949F885-3B49-4F96-8617-FCA2534477D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D949F885-3B49-4F96-8617-FCA2534477D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D949F885-3B49-4F96-8617-FCA2534477D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D949F885-3B49-4F96-8617-FCA2534477D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79AC6CA-E182-4809-92BE-464B44085A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79AC6CA-E182-4809-92BE-464B44085A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79AC6CA-E182-4809-92BE-464B44085A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79AC6CA-E182-4809-92BE-464B44085A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

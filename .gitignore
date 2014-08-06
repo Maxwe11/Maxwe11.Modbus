@@ -1,0 +1,7 @@
+*.suo
+*.user
+*.nuspec
+*.nupkg
+*.sln.ide
+*/bin
+*/obj
